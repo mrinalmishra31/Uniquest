@@ -61,5 +61,10 @@ These were crafted to boost regional engagement and face-to-face outreach in str
 
 ---
 
-## 🔍 Folder Structure
+
+## 📢 License
+
+This project is a part of academic coursework and is for educational reference only.
+
+---
 
