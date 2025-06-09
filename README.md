@@ -64,7 +64,8 @@ These were crafted to boost regional engagement and face-to-face outreach in str
 
 ## 📢 License
 
-This project is a part of academic coursework and is for educational reference only.
+This project is part of my professional work experience and is shared solely for professional portfolio reference only.
 
 ---
 
+© 2025 | Created by Mrinal Mishra.
